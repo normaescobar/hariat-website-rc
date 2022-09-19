@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6, span {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 38px;
 }
 
 p {
@@ -201,7 +201,7 @@ nav {
   animation: fade-up 650ms 400ms backwards;
 }
 .about-me__info--para {
-  font-size: 20px;
+  font-size: 28px;
   margin-bottom: 28px;
   animation: fade-up 650ms 600ms backwards;
 }
@@ -444,7 +444,7 @@ footer {
   }
 
   .about-me__info--para {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .language {
